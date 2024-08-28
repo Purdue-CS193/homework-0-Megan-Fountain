@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 # Hello
 ## Hi
 ### How's it going?
+**This text is bold**
+_This text is italisized_
 
 ```markdown
 Syntax highlighted code block
